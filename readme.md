@@ -1,10 +1,6 @@
-# 粒子群优化算法在优化调度问题中的应用
+# Particle swarm optimization algorithm applied to scheduling problems
 
-**问题描述**
-
-优化调度问题在现实生活中有着广泛的应用，是一种典型的NP-hard组合优化问题。本文结合优化调度问题的特点，利用粒子群优化算法求解优化调度问题的解决方案。实验结果证明，粒子群优化算法在优化调度问题的应用中是十分有效的。
-
-**运行**
+**run**
 
 ```shell
 python main.py
